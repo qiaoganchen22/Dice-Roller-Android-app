@@ -1,4 +1,7 @@
 # Dice-Roller-Android-app
+
+![Rolling-Dice](https://user-images.githubusercontent.com/38334354/117333346-d6e28a00-ae66-11eb-8a19-30827f77818e.jpg)
+
 Dice Roller is an android app that requires android studios.
 
 Opening Project on Android Studio
