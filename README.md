@@ -18,5 +18,5 @@ If this is the first time you're using Android Studio, you won't have an emulato
 
 Running App on an Emulator
 
-    From the top toolbar of the IDE, right before the green run button, you can select your preferred emulator (optional)
-    Select Run on the top toolbar
+    From the top toolbar of the IDE, right before the green run button, you can select your preferred 
+    emulator (optional) Select Run on the top toolbar
